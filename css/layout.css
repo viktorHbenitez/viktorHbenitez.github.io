@@ -357,7 +357,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .ios {
-  	width: 80%;
+  	width: 90%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
@@ -369,13 +369,13 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .swift {
-  	width: 80%;
+  	width: 65%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
 
 .github {
-  	width: 80%;
+  	width: 95%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
